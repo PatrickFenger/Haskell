@@ -1,1 +1,1 @@
-# Haskell
+This repo's purpose is explicitly to enable review of classmates code. It does not contain anything
